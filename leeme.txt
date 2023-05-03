@@ -1,0 +1,2 @@
+es un proyecto vacio de springboot para usar de plantilla con
+java 17 y mysql. (ver el pom)
